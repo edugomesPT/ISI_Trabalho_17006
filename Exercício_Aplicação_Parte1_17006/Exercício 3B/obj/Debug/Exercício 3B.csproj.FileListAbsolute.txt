@@ -1,0 +1,29 @@
+C:\Ano 3\ISI\Exercício_Aplicação_Parte1_17006\Exercício 3B\obj\Debug\Exercício 3B.csprojAssemblyReference.cache
+C:\Ano 3\ISI\Exercício_Aplicação_Parte1_17006\Exercício 3B\obj\Debug\Exercício 3B.csproj.CoreCompileInputs.cache
+C:\Ano 3\ISI\Exercício_Aplicação_Parte1_17006\Exercício 3B\bin\Debug\Exercício 3B.exe.config
+C:\Ano 3\ISI\Exercício_Aplicação_Parte1_17006\Exercício 3B\bin\Debug\Exercício 3B.exe
+C:\Ano 3\ISI\Exercício_Aplicação_Parte1_17006\Exercício 3B\bin\Debug\Exercício 3B.pdb
+C:\Ano 3\ISI\Exercício_Aplicação_Parte1_17006\Exercício 3B\bin\Debug\Json.Net.dll
+C:\Ano 3\ISI\Exercício_Aplicação_Parte1_17006\Exercício 3B\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Ano 3\ISI\Exercício_Aplicação_Parte1_17006\Exercício 3B\bin\Debug\Newtonsoft.Json.dll
+C:\Ano 3\ISI\Exercício_Aplicação_Parte1_17006\Exercício 3B\bin\Debug\System.Buffers.dll
+C:\Ano 3\ISI\Exercício_Aplicação_Parte1_17006\Exercício 3B\bin\Debug\System.Memory.dll
+C:\Ano 3\ISI\Exercício_Aplicação_Parte1_17006\Exercício 3B\bin\Debug\System.Numerics.Vectors.dll
+C:\Ano 3\ISI\Exercício_Aplicação_Parte1_17006\Exercício 3B\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Ano 3\ISI\Exercício_Aplicação_Parte1_17006\Exercício 3B\bin\Debug\System.Text.Encodings.Web.dll
+C:\Ano 3\ISI\Exercício_Aplicação_Parte1_17006\Exercício 3B\bin\Debug\System.Text.Json.dll
+C:\Ano 3\ISI\Exercício_Aplicação_Parte1_17006\Exercício 3B\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Ano 3\ISI\Exercício_Aplicação_Parte1_17006\Exercício 3B\bin\Debug\System.ValueTuple.dll
+C:\Ano 3\ISI\Exercício_Aplicação_Parte1_17006\Exercício 3B\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Ano 3\ISI\Exercício_Aplicação_Parte1_17006\Exercício 3B\bin\Debug\Newtonsoft.Json.xml
+C:\Ano 3\ISI\Exercício_Aplicação_Parte1_17006\Exercício 3B\bin\Debug\System.Buffers.xml
+C:\Ano 3\ISI\Exercício_Aplicação_Parte1_17006\Exercício 3B\bin\Debug\System.Memory.xml
+C:\Ano 3\ISI\Exercício_Aplicação_Parte1_17006\Exercício 3B\bin\Debug\System.Numerics.Vectors.xml
+C:\Ano 3\ISI\Exercício_Aplicação_Parte1_17006\Exercício 3B\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Ano 3\ISI\Exercício_Aplicação_Parte1_17006\Exercício 3B\bin\Debug\System.Text.Encodings.Web.xml
+C:\Ano 3\ISI\Exercício_Aplicação_Parte1_17006\Exercício 3B\bin\Debug\System.Text.Json.xml
+C:\Ano 3\ISI\Exercício_Aplicação_Parte1_17006\Exercício 3B\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Ano 3\ISI\Exercício_Aplicação_Parte1_17006\Exercício 3B\bin\Debug\System.ValueTuple.xml
+C:\Ano 3\ISI\Exercício_Aplicação_Parte1_17006\Exercício 3B\obj\Debug\Exercício 3B.csproj.CopyComplete
+C:\Ano 3\ISI\Exercício_Aplicação_Parte1_17006\Exercício 3B\obj\Debug\Exercício 3B.exe
+C:\Ano 3\ISI\Exercício_Aplicação_Parte1_17006\Exercício 3B\obj\Debug\Exercício 3B.pdb
